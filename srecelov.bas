@@ -1,4 +1,5 @@
-   10 PRINT AT 5,10;"Srecelov"
+1 randomize 2304 
+10 PRINT AT 5,10;"Srecelov"
    20 PRINT AT 7,7;"Facebook skupine"
    30 PRINT AT 8,6;"Retro racunalniki"
    40 PRINT AT 10,10;"23.4.2023"
