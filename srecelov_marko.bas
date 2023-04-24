@@ -1,12 +1,3 @@
-Check 75A930EF
-Auto 8224
-
-# Run-time Variables
-
-Var r: Num = 50
-
-# End Run-time Variables
-
   11 RANDOMIZE 2304
   20 LET r=INT (RND*72)+1
   21 PRINT AT 5,10;"Srecelov"
