@@ -1,16 +1,3 @@
-Check 97E374A0
-Auto 8224
-
-# Run-time Variables
-
-Var r: Num = 11
-Var u: Num = 0
-Var n: NumArray(8) = 1, 7, 32, 57, 20, 14, 15, 11
-Var i: NumFOR = 9, 8, 1, 12, 2
-Var j: NumFOR = 8, 7, 1, 22, 2
-
-# End Run-time Variables
-
    1 PRINT AT 5,10;"Srecelov"
    2 PRINT AT 7,7;"Facebook skupine"
    3 PRINT AT 8,6;"Retro racunalniki"
